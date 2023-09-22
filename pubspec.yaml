@@ -1,0 +1,75 @@
+name: belajar_statemanagement
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.5
+  carousel_slider: ^4.2.1
+  flutter_speed_dial: ^7.0.0
+  flutter_slider_drawer: ^2.1.3
+  rflutter_alert: ^2.0.7
+  get_cli: ^1.8.1
+  firebase_core: 2.15.0
+  firebase_auth: 4.7.2
+  flutter: 
+    sdk: flutter
+  get: ^4.6.5
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  assets: 
+    - assets/kat/1.jpeg
+    - assets/kat/2.jpg
+    - assets/kat/3.jpeg
+    - assets/kat/4.jpg
+    - assets/kat/5.jpg
+    - assets/list/1.jpeg
+    - assets/list/2.jpg
+    - assets/list/3.jpg
+    - assets/list/4.jpg
+    - assets/list/5.jpg
+    - assets/list/6.jpg
+    - assets/list/7.jpg
+    - assets/list/8.jpg
+    - assets/list/9.jpg
+    - assets/list/10.jpg
+    - assets/list/11.jpg
+    - assets/list/12.jpg
+    - assets/list/13.jpg
+    - assets/list/14.jpg
+    - assets/list/15.jpg
+    - assets/list/16.jpg
+    - assets/list/17.jpg
+    - assets/list/18.jpg
+    - assets/list/19.jpg
+    - assets/list/20.jpg
+    - assets/list/21.jpg
+    - assets/list/22.jpeg
+    - assets/list/23.jpg
+    - assets/list/24.jpg
+    - assets/list/25.jpeg
+    - assets/list/26.jpg
+    - assets/list/27.jpg
+    - assets/list/28.jpeg
+    - assets/list/29.jpeg
+    - assets/list/30.jpeg
+    - assets/1.jpg
+    - assets/2.jpg
+    - assets/3.jpg
+    - assets/4.jpg
+    - assets/5.webp
+    - assets/pixel.jpg
+  fonts: 
+    - family: Exo2
+      fonts: 
+        - asset: assets\fonts\Exo2-Bold.ttf
+  uses-material-design: true
+
